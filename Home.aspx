@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Gildas - V1
+    Gildas - V2
     </div>
     </form>
 </body>
